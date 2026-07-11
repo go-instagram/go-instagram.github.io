@@ -1,0 +1,3 @@
+repos:
+  - { name: "instagram", kind: "client", ci: true, desc: "Pure-Go best-effort read client for public Instagram content." }
+  - { name: "brand", kind: "brand", ci: false, desc: "Logos, icons and social images for go-instagram." }

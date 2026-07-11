@@ -1,0 +1,7 @@
+baseURL = "https://go-instagram.github.io/"
+languageCode = "en-us"
+title = "go-instagram"
+disableKinds = ["taxonomy", "term", "RSS", "sitemap", "404"]
+
+[markup.goldmark.renderer]
+  unsafe = true
